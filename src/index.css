@@ -8,7 +8,6 @@
   background: #f9fbfd;
 }
 
-/* Left section (Illustration) */
 .signup-left {
   flex: 1;
   display: flex;
@@ -52,7 +51,7 @@
 .signup-form {
   background: white;
   padding: 40px;
-  border-radius: 12px;
+  border-radius: 14px 0px 14px 0px;
   box-shadow: 0px 0px 4px #d32f2f;
   width: 100%;
   max-width: 480px;
@@ -218,7 +217,7 @@ body {
 .form-card {
   background: #fff;
   padding: 40px;
-  border-radius: 15px;
+  border-radius: 15px 0px 15px 0px;
   width: 350px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
 }
@@ -309,7 +308,7 @@ body {
 .reset-card {
   background: #fff;
   padding: 30px;
-  border-radius: 12px;
+  border-radius: 12px 0px 12px 0px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
   width: 320px;
   text-align: center;
